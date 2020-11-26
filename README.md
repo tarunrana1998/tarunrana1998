@@ -4,6 +4,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: C++ / REACT / JS / HTML / CSS
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunrana1998&theme=tokyonight)
+
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Backend Development. 
 - 💬 Ask me about My Projects. 
