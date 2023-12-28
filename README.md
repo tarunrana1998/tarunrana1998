@@ -1,25 +1,44 @@
-### Hi there 👋, my name is Tarun Kumar Rana
+# Hi there, I'm Tarun Rana! 👋
 
+I'm a passionate software engineer with a love for creating innovative solutions. Welcome to my GitHub profile! 👨‍💻
 
-Skills: C++ / REACT / JS / HTML / CSS
+## 🔧 Technologies & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunrana1998&theme=tokyonight)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Backend Development. 
-- 💬 Ask me about My Projects. 
-- 📫 How to reach me: Compose a Mail  
-- ⚡ Fun fact: An advanced player starts his journey from a beginner. 
+## 🌱 Currently Learning
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tarunrana1998)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tarunrana1998)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tarunrana1998//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/yHyuZRa4i6vvf6DbQX0V4A)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/tarunrana1998)  
+## 🚀 Projects
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+- **Awesome Project 1**
+  - Description of the project and its impact.
+  - Technologies used.
+  - Link to the project repository.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunrana1998&show_icons=true)  
+- **Cool Project 2**
+  - Brief description.
+  - Technologies used.
+  - Link to the project repository.
 
-![GitHub metrics](https://metrics.lecoq.io/tarunrana1998)  
+## 📈 GitHub Stats
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tarunrana1998)  
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_border=true)](https://github.com/your-username)
 
-![Profile views](https://gpvc.arturio.dev/tarunrana1998)  
+## 📝 Latest Blog Posts
+
+- [Blog Post 1](https://your-blog-url.com/post-1)
+- [Blog Post 2](https://your-blog-url.com/post-2)
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/tarunrana1998/)
+[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/your-username)
+
+Feel free to explore my repositories, check out my projects, and don't hesitate to reach out. Happy coding! 😊
