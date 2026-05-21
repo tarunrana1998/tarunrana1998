@@ -6,7 +6,7 @@ I am a fullstack developer from Gurgaon, India 🇮🇳 I am working as a Softwa
 
 <a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Php" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Python" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/fastapi-wordmark-light.png" alt="Python" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Python" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/fastapi-wordmark-light.png" alt="Python" width="100" height="30"/></a>&nbsp;&nbsp;
 
 <a href="" target="_blank" title="BootStrap" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Laravel" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="30" height="30"/></a>&nbsp;&nbsp;
