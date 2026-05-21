@@ -1,74 +1,152 @@
-## Hello👋 I'm Tarun Rana 👩🏻‍💻
+# Hello 👋 I'm Tarun Rana 👨🏻‍💻
 
-I am a fullstack developer from Gurgaon, India 🇮🇳 I am working as a Software Engineer at [91mobiles]([https://ghost.org/](https://www.91mobiles.com/))
+Full Stack Engineer from Gurgaon, India 🇮🇳  
+Currently working as a Senior Software Engineer at [91mobiles](https://www.91mobiles.com)
 
-### Currently I am working with ...
+I have 5+ years of experience building scalable web applications, APIs, automation systems, and AI-powered solutions. I specialize in backend engineering with PHP/Laravel while also working across modern frontend frameworks, cloud infrastructure, and AI tooling.
 
-<a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Php" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Python" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/fastapi-wordmark-light.png" alt="Python" width="100" height="30"/></a>&nbsp;&nbsp;
+---
 
-<a href="" target="_blank" title="BootStrap" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Laravel" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Jira" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
+## 🚀 Currently Working With
 
-<a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/postman/getpostman-icon.svg" alt="Postman" width="35" height="35"/>
+</p>
 
-### I have also worked with ...
+---
 
+## 🤖 Exploring & Building With AI
 
-<a href="" title="C" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="C++" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="PostgreSQL" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="MySQL" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="MongoDB" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="ElaticSearch" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="AMP" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ampproject/ampproject-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Redis" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="RabbitMQ" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Apache Kafka" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<!--<a href="" title="Docker" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Golang" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Spring Framework" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Apache Maven" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Kubernetes" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp; -->
+- OpenAI APIs
+- AI Agents & Automation
+- RAG Applications
+- FastAPI
+- LangChain
+- Vector Databases
+- AI Text Summarization APIs
+- LLM Integrations
+- Prompt Engineering
 
-### I post actively on ...
+---
 
-<a href="https://www.linkedin.com/in/tarunrana1998/" title="kryptoking" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/comingsoon/" title="krytpoking" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>
+## 🛠️ Tech Stack & Tools
 
-### You can also find me on ...
+### Backend
+- PHP
+- Laravel
+- Python
+- Node.js
+- REST APIs
+- Microservices
+- Queue Systems
 
-<a href="https://www.instagram.com/upcoming/" title="kryptoking" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/rana" target="_blank" title="kryptoking" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="mailto:tarunrana1997@gmail.com" target="_blank" title="tarunrana@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+### Frontend
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
 
+### Databases & Search
+- MySQL
+- PostgreSQL
+- MongoDB
+- Redis
+- Elasticsearch
 
-# 
+### DevOps & Cloud
+- Docker
+- GitHub Actions
+- Linux
+- AWS
+- CI/CD
+- Nginx
 
-<!--
-<a href="https://www.buymeacoffee.com/coolbutton" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
+### Messaging & Streaming
+- RabbitMQ
+- Apache Kafka
 
+### Tools
+- Git
+- GitHub
+- Jira
+- Postman
+- VS Code
 
+---
 
-Here are some ideas to get you started:
+## 📈 Experience Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Built scalable backend systems serving millions of users
+- Worked on automation & scraping systems using Python
+- Integrated payment gateways including Stripe
+- Improved API performance using Redis caching & queue optimization
+- Experience working with large-scale content & product platforms
+- Comfortable adapting quickly to new technologies & stacks
 
+---
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tarunrana1998/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="35" height="35"/>
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="35" height="35"/>
+  </a>
+
+  <a href="https://twitter.com/rana" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="35" height="35"/>
+  </a>
+
+  <a href="mailto:tarunrana1997@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="35" height="35"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Facts
+
+- 💡 Passionate about scalable backend systems
+- 🚀 Exploring AI & automation tools
+- 🌱 Learning advanced AI engineering & system design
+- 🧠 Love solving performance optimization problems
+- ☕ Coffee + Coding = Productivity
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+⭐ Always learning, building, and exploring new technologies in Web Development & AI.
