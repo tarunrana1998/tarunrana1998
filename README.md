@@ -1,152 +1,107 @@
-# Hello 👋 I'm Tarun Rana 👨🏻‍💻
+<h1 align="center">Hi 👋 I'm Tarun Rana</h1>
 
-Full Stack Engineer from Gurgaon, India 🇮🇳  
-Currently working as a Senior Software Engineer at [91mobiles](https://www.91mobiles.com)
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%40+91mobiles;Full+Stack+Engineer+from+Gurgaon%2C+India+%F0%9F%87%AE%F0%9F%87%B3;PHP+%2F+Laravel+backend+specialist;Building+scalable+web+apps+%26+AI-powered+tools" alt="Typing SVG" />
+  </a>
+</p>
 
-I have 5+ years of experience building scalable web applications, APIs, automation systems, and AI-powered solutions. I specialize in backend engineering with PHP/Laravel while also working across modern frontend frameworks, cloud infrastructure, and AI tooling.
-
----
-
-## 🚀 Currently Working With
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/getpostman-icon.svg" alt="Postman" width="35" height="35"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=7AA2F7&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🤖 Exploring & Building With AI
+### 💫 About Me
 
-- OpenAI APIs
-- AI Agents & Automation
-- RAG Applications
-- FastAPI
-- LangChain
-- Vector Databases
-- AI Text Summarization APIs
-- LLM Integrations
-- Prompt Engineering
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Backend
-- PHP
-- Laravel
-- Python
-- Node.js
-- REST APIs
-- Microservices
-- Queue Systems
-
-### Frontend
-- React.js
-- Next.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
-
-### Databases & Search
-- MySQL
-- PostgreSQL
-- MongoDB
-- Redis
-- Elasticsearch
-
-### DevOps & Cloud
-- Docker
-- GitHub Actions
-- Linux
-- AWS
-- CI/CD
-- Nginx
-
-### Messaging & Streaming
-- RabbitMQ
-- Apache Kafka
-
-### Tools
-- Git
-- GitHub
-- Jira
-- Postman
-- VS Code
-
----
-
-## 📈 Experience Highlights
-
-- Built scalable backend systems serving millions of users
-- Worked on automation & scraping systems using Python
-- Integrated payment gateways including Stripe
-- Improved API performance using Redis caching & queue optimization
-- Experience working with large-scale content & product platforms
-- Comfortable adapting quickly to new technologies & stacks
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/tarunrana1998/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="35" height="35"/>
-  </a>
-
-  <a href="https://github.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="35" height="35"/>
-  </a>
-
-  <a href="https://twitter.com/rana" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="35" height="35"/>
-  </a>
-
-  <a href="mailto:tarunrana1997@gmail.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="35" height="35"/>
-  </a>
-</p>
-
----
-
-## ⚡ Fun Facts
-
-- 💡 Passionate about scalable backend systems
-- 🚀 Exploring AI & automation tools
-- 🌱 Learning advanced AI engineering & system design
-- 🧠 Love solving performance optimization problems
+- 🔭 Senior Software Engineer at **[91mobiles](https://www.91mobiles.com)**
+- ⚙️ 5+ years building scalable web apps, APIs, automation systems & AI-powered solutions
+- 🧩 Backend-first with **PHP / Laravel**, comfortable across modern frontend, cloud & AI tooling
+- 🌱 Currently going deeper on **AI engineering & system design**
+- 💬 Ask me about backend architecture, performance optimization, and LLM integrations
 - ☕ Coffee + Coding = Productivity
 
 ---
 
+### 🛠️ Tech Stack
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs" height="40" alt="backend" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,bootstrap,tailwind" height="40" alt="frontend" />
+
+**Databases & Search**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch" height="40" alt="databases" />
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,aws,nginx" height="40" alt="devops" />
+
+**Messaging & Streaming**
+
+<img src="https://skillicons.dev/icons?i=rabbitmq,kafka" height="40" alt="messaging" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="40" alt="tools" />
+
+---
+
+### 🤖 Exploring & Building With AI
+
+`OpenAI APIs` · `AI Agents & Automation` · `RAG Applications` · `LangChain` · `FastAPI` · `Vector Databases` · `LLM Integrations` · `Prompt Engineering`
+
+---
+
+### 📈 Experience Highlights
+
+- 🏗️ Built scalable backend systems serving **millions of users**
+- 🐍 Developed automation & scraping systems in Python
+- 💳 Integrated payment gateways including Stripe
+- ⚡ Improved API performance with Redis caching & queue optimization
+- 📦 Worked on large-scale content & product platforms
+- 🚀 Quick to adapt to new technologies & stacks
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
 </p>
 
 ---
 
-⭐ Always learning, building, and exploring new technologies in Web Development & AI.
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tarunrana1998/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:tarunrana1997@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>⭐ Always learning, building, and exploring new tech in Web Development & AI.</i></p>
